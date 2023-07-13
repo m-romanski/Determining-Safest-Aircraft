@@ -1,5 +1,9 @@
 # Recommendations for Safest Aircrafts 
+
 ## Overview
+
+In this study, we aim to process, clean, understand, and produce statistically significant data in order to make evidence-based decisions in terms of operating the safest aircrafts.
+
 ## Business Understanding
 ### Include stakeholder and key business questions
 ## Data Understanding and Analysis
