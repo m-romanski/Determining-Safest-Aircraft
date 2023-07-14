@@ -109,9 +109,7 @@ Next steps for data analysis could include further investigation of the safest m
 Next steps for our client would involve researching price and availability of our recommended aircraft. They also might consider opportunities to align this new venture with their commercial interests and their social responsibility values. Many Part 135 operations serve isolated or underserved areas. This offers the company a chance to find untapped markets and possibly to also demonstrate their business' commitment to giving back.
 
 
-
-
-
-
-
 ### Summary of conclusions including three relevant findings
+
+[Dashboard 1.pdf](https://github.com/m-romanski/dsc-phase1-project-LRM/files/12051968/Dashboard.1.pdf)
+
