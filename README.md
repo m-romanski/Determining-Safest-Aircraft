@@ -7,11 +7,11 @@
 
   Our client is looking to enter the aviation industry and has asked us to determine how to maximize safety in this endeavor. Using data provided by the National Transportation Safety Board (NTSB) we have determined the following:
 
-*Our client should invest in a Boeing aircraft that has at least two engines.
+-Our client should invest in a Boeing aircraft that has at least two engines.
 
-*Our client should fly on-demand, unscheduled operations under Federal Aviation Regulation Part 135.
+-Our client should fly on-demand, unscheduled operations under Federal Aviation Regulation Part 135.
 
-*Our client should pursue regional business in the United States but outside of the Northeast.
+-Our client should pursue regional business in the United States but outside of the Northeast.
   
 ## Business Understanding
 
