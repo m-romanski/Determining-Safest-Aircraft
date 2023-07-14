@@ -31,6 +31,8 @@ How is the number of engines on an aircraft related to overall aircraft safety?
 
 How is flight protocol related to overall aircraft safety?
 
+Our client's top concern is safety. They want to know what type of aircraft is safest and how to ensure it flies safely. This benefits their bottom line too, because a focus on safety can burnish their brand in the eyes of customers. Safe flights also protect their capital investment.
+
 ## Data Understanding and Analysis
 ### Source of data
 ### Description of data
