@@ -4,6 +4,14 @@
 
   In this study, we aim to process, clean, understand, and produce statistically significant data in order to make evidence-based decisions in terms of operating the safest aircrafts.
   Starting from a large dataset, we will be able to determine a list of top 10 safest aircrafts from professional manufacturers worldwide.
+
+  Our client is looking to enter the aviation industry and has asked us to determine how to maximize safety in this endeavor. Using data provided by the National Transportation Safety Board (NTSB) we have determined the following:
+
+*Our client should invest in a Boeing aircraft that has at least two engines.
+
+*Our client should fly on-demand, unscheduled operations under Federal Aviation Regulation Part 135.
+
+*Our client should pursue regional business in the United States but outside of the Northeast.
   
 ## Business Understanding
 
@@ -12,10 +20,15 @@ Business owners that are looking to invest in commercial and private flight oper
 These questions include, but are not limited to:
 
 How many accidents are associated with the aircraft makes?
+
 How many fatal injuries are associated with each make?
+
 How many individuals have survived in accidents associated with each make?
+
 What are the percent chances of survival in case of an accident?
+
 How is the number of engines on an aircraft related to overall aircraft safety?
+
 How is flight protocol related to overall aircraft safety?
 
 ## Data Understanding and Analysis
