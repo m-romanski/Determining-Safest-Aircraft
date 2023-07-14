@@ -109,7 +109,9 @@ Next steps for data analysis could include further investigation of the safest m
 Next steps for our client would involve researching price and availability of our recommended aircraft. They also might consider opportunities to align this new venture with their commercial interests and their social responsibility values. Many Part 135 operations serve isolated or underserved areas. This offers the company a chance to find untapped markets and possibly to also demonstrate their business' commitment to giving back.
 
 
-### Summary of conclusions including three relevant findings
+## Conclusion
+
+The dasboard below summarizes our conclusions that drove our recommendations meantioned earlier. We see a clear breakdown of our top safest aircrafts based on make, engine number, and FAR protocols, chance of overall injury, and chance of fatal injury. Therefore, the safest aircrafts are manufactured by Boeing, McDonnell (now under Boeing operations since 1997), and Airbus. In order to further increase customers' safety, these aircrafts should be operated under Federal Aviation Regulation Part 135, outside of the Northeast of the United States. Note that a further investigation is necessary to draw conclusions on why the Northeast presents a higher danger for flights. It might be relevant to analyze the different weather conditions across multiple geographical regions for such an investigation.
 
 ![Dashboard 1](https://github.com/m-romanski/dsc-phase1-project-LRM/assets/137821058/692a7195-8250-4f00-841f-8d58446d63c4)
 
