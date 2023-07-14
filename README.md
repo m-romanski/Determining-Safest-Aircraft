@@ -2,8 +2,9 @@
 
 ## Relevant Links 
 
-[Link to Tableau Dashboard](https://public.tableau.com/app/profile/michael.romanski/viz/ChanceofInjuryTypebyMakeandNumberofEngines/Dashboard1)
-[Link to Project Presentation](https://docs.google.com/presentation/d/1j4cP-3PGLXK_GNds0rC34RImnjQv4MPPsIOqCTKS_RM/edit#slide=id.g1e4bd692002_0_580)
+-[Link to Tableau Dashboard](https://public.tableau.com/app/profile/michael.romanski/viz/ChanceofInjuryTypebyMakeandNumberofEngines/Dashboard1)
+
+-[Link to Project Presentation](https://docs.google.com/presentation/d/1j4cP-3PGLXK_GNds0rC34RImnjQv4MPPsIOqCTKS_RM/edit#slide=id.g1e4bd692002_0_580)
 
 ## Overview
 
