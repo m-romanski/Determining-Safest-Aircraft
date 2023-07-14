@@ -111,5 +111,6 @@ Next steps for our client would involve researching price and availability of ou
 
 ### Summary of conclusions including three relevant findings
 
-[Dashboard 1.pdf](https://github.com/m-romanski/dsc-phase1-project-LRM/files/12051968/Dashboard.1.pdf)
+![Dashboard 1](https://github.com/m-romanski/dsc-phase1-project-LRM/assets/137821058/692a7195-8250-4f00-841f-8d58446d63c4)
+
 
