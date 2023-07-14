@@ -42,9 +42,9 @@ The biggest limitation of this dataset is that it only includes flights that had
 We quickly eliminated columns that were not germane to our analysis. For example, our client is not seeking to purchase an already existing commercial airline, so "Air.carrier" was not useful. "Broad.phase.of.flight" would probably yield good information about the relative safety of various parts of a flight, but we wouldn't be able to recommend to our client that they avoid takeoffs and landings altogether, should we discover they were the most dangerous phases. Some categories like "Registration.Number" and "Investigation.Type" were more connected to internal NTSB processes.
 
 
-
+<br>
 <img width="895" alt="Screenshot 2023-07-14 at 10 35 09 AM" src="https://github.com/m-romanski/dsc-phase1-project-LRM/assets/137821058/fefe9fc7-7bc5-4928-947d-3eb7559eb00d">
-
+<br>
 
 
 We made a new data frame of [U.S. states and their region](https://github.com/cphalpert/census-regions/blob/master/us%20census%20bureau%20regions%20and%20divisions.csv), and prepped the aviation_df to join it.
