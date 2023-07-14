@@ -48,12 +48,12 @@ We made a new data frame of [U.S. states and their region](https://github.com/cp
 
 The FAR descriptions were messy and inconsistent. We needed to do a lot of renaming to properly categorize them.
 
-</br>
+
 
 
 <img width="866" alt="Screenshot 2023-07-14 at 10 48 36 AM" src="https://github.com/m-romanski/dsc-phase1-project-LRM/assets/137821058/a61ce1e0-9aa9-444f-9369-a4fe7e0a0cdb">
 
-</br>
+
 
 Our client values safety above all, and we cannot really determine the safety of unique aircraft. It is unlikely that our client would have the opportunity to purchase a rare or limited-production plane anyway, so we dropped all "Make" values that were less than 1% of the total dataset. Such planes are too unusual to make a good assessment of their safety. We also dropped entries that did not list "Make" because we cannot recommend a plane if we don't know what type it is.
 
