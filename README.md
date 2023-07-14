@@ -39,5 +39,10 @@ This data represents about 85.000 aviation accidents and incidents documented by
 
 The biggest limitation of this dataset is that it only includes flights that had a problem. Theoretically, a perfect plane would never crash and thus would not appear in this dataset. While the data did not allow us to determine the ratio of uneventful flights to crashes, we were able to find valuable information about the severity of crashes. Our analysis shows the likelihood of injury if a particular plane does crash. Realistically, accidents do happen and there are no perfect aircraft. We can tell our client which planes are the safest when things go wrong.
 
+We quickly eliminated columns that were not germane to our analysis. For example, our client is not seeking to purchase an already existing commercial airline, so "Air.carrier" was not useful. "Broad.phase.of.flight" would probably yield good information about the relative safety of various parts of a flight, but we wouldn't be able to recommend to our client that they avoid takeoffs and landings altogether, should we discover they were the most dangerous phases. Some categories like "Registration.Number" and "Investigation.Type" were more connected to internal NTSB processes.
+
+<img width="895" alt="Screenshot 2023-07-14 at 10 35 09 AM" src="https://github.com/m-romanski/dsc-phase1-project-LRM/assets/137821058/fefe9fc7-7bc5-4928-947d-3eb7559eb00d">
+
+
 
 ### Summary of conclusions including three relevant findings
