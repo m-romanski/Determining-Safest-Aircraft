@@ -39,8 +39,5 @@ This data represents about 85.000 aviation accidents and incidents documented by
 
 The biggest limitation of this dataset is that it only includes flights that had a problem. Theoretically, a perfect plane would never crash and thus would not appear in this dataset. While the data did not allow us to determine the ratio of uneventful flights to crashes, we were able to find valuable information about the severity of crashes. Our analysis shows the likelihood of injury if a particular plane does crash. Realistically, accidents do happen and there are no perfect aircraft. We can tell our client which planes are the safest when things go wrong.
 
-### Source of data
-### Description of data
-### Three visualizations (the same visualizations presented in the slides and notebook)
-## Conclusion
+
 ### Summary of conclusions including three relevant findings
