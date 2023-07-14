@@ -43,7 +43,6 @@ We quickly eliminated columns that were not germane to our analysis. For example
 
 
 <img width="895" alt="Screenshot 2023-07-14 at 10 35 09 AM" src="https://github.com/m-romanski/dsc-phase1-project-LRM/assets/137821058/fefe9fc7-7bc5-4928-947d-3eb7559eb00d">
-&nbsp;
 
 We made a new data frame of [U.S. states and their region](https://github.com/cphalpert/census-regions/blob/master/us%20census%20bureau%20regions%20and%20divisions.csv), and prepped the aviation_df to join it.
 
@@ -135,7 +134,7 @@ Next steps for our client would involve researching price and availability of ou
 
 ## Conclusion
 
-The [dasboard](https://public.tableau.com/app/profile/michael.romanski/viz/ChanceofInjuryTypebyMakeandNumberofEngines/Dashboard1) below summarizes our conclusions that drove our recommendations meantioned earlier. We see a clear breakdown of our top safest aircrafts based on make, engine number, and FAR protocols, chance of overall injury, and chance of fatal injury. Therefore, the safest aircrafts are manufactured by Boeing, McDonnell (now under Boeing operations since 1997), and Airbus. In order to further increase customers' safety, these aircrafts should be operated under Federal Aviation Regulation Part 135, outside of the Northeast of the United States.
+The [dashboard](https://public.tableau.com/app/profile/michael.romanski/viz/ChanceofInjuryTypebyMakeandNumberofEngines/Dashboard1) below summarizes our conclusions that drove our recommendations mentioned earlier. We see a clear breakdown of our top safest aircrafts based on make, engine number, and FAR protocols, chance of overall injury, and chance of fatal injury. Therefore, the safest aircrafts are manufactured by Boeing, McDonnell (now under Boeing operations since 1997), and Airbus. In order to further increase customers' safety, these aircrafts should be operated under Federal Aviation Regulation Part 135, outside of the Northeast of the United States.
 
 Note that a further investigation is necessary to draw conclusions on why the Northeast presents a higher danger for flights. It might be relevant to analyze the different weather conditions across multiple geographical regions for such an investigation.
 
