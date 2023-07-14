@@ -7,7 +7,7 @@
   
 ## Business Understanding
 
-Business owners that are looking to invest in commercial and private flight operations need to have a well-defined picture of the aircraft statistical spectrum in order to make purchases that will best fit their business model. Therefore, key questions related to the aircraft operations industry must be answered before the company proceeds with acquiring any flight aparatus. 
+Business owners that are looking to invest in commercial and private flight operations need to have a well-defined picture of the aircraft statistical spectrum in order to make purchases that will best fit their business model. Therefore, key questions related to the aircraft operations industry must be answered before the company proceeds with acquiring any flight apparatus. 
 
 These questions include, but are not limited to:
 
