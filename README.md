@@ -19,17 +19,17 @@ Business owners that are looking to invest in commercial and private flight oper
 
 These questions include, but are not limited to:
 
-How many accidents are associated with the aircraft makes?
+-How many accidents are associated with the aircraft makes?
 
-How many fatal injuries are associated with each make?
+-How many fatal injuries are associated with each make?
 
-How many individuals have survived in accidents associated with each make?
+-How many individuals have survived in accidents associated with each make?
 
-What are the percent chances of survival in case of an accident?
+-What are the percent chances of survival in case of an accident?
 
-How is the number of engines on an aircraft related to overall aircraft safety?
+-How is the number of engines on an aircraft related to overall aircraft safety?
 
-How is flight protocol related to overall aircraft safety?
+-How is flight protocol related to overall aircraft safety?
 
 Our client's top concern is safety. They want to know what type of aircraft is safest and how to ensure it flies safely. This benefits their bottom line too, because a focus on safety can burnish their brand in the eyes of customers. Safe flights also protect their capital investment.
 
