@@ -137,7 +137,7 @@ Next steps for our client would involve researching price and availability of ou
 
 ## Conclusion
 
-The dasboard below summarizes our conclusions that drove our recommendations meantioned earlier. We see a clear breakdown of our top safest aircrafts based on make, engine number, and FAR protocols, chance of overall injury, and chance of fatal injury. Therefore, the safest aircrafts are manufactured by Boeing, McDonnell (now under Boeing operations since 1997), and Airbus. In order to further increase customers' safety, these aircrafts should be operated under Federal Aviation Regulation Part 135, outside of the Northeast of the United States.
+The [dasboard](https://public.tableau.com/app/profile/michael.romanski/viz/ChanceofInjuryTypebyMakeandNumberofEngines/Dashboard1) below summarizes our conclusions that drove our recommendations meantioned earlier. We see a clear breakdown of our top safest aircrafts based on make, engine number, and FAR protocols, chance of overall injury, and chance of fatal injury. Therefore, the safest aircrafts are manufactured by Boeing, McDonnell (now under Boeing operations since 1997), and Airbus. In order to further increase customers' safety, these aircrafts should be operated under Federal Aviation Regulation Part 135, outside of the Northeast of the United States.
 
 Note that a further investigation is necessary to draw conclusions on why the Northeast presents a higher danger for flights. It might be relevant to analyze the different weather conditions across multiple geographical regions for such an investigation.
 
