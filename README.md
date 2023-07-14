@@ -47,6 +47,22 @@ We quickly eliminated columns that were not germane to our analysis. For example
 
 We made a new data frame of [U.S. states and their region](https://github.com/cphalpert/census-regions/blob/master/us%20census%20bureau%20regions%20and%20divisions.csv), and prepped the aviation_df to join it.
 
+The FAR descriptions were messy and inconsistent. We needed to do a lot of renaming to properly categorize them.
+
+
+<img width="866" alt="Screenshot 2023-07-14 at 10 48 36 AM" src="https://github.com/m-romanski/dsc-phase1-project-LRM/assets/137821058/a61ce1e0-9aa9-444f-9369-a4fe7e0a0cdb">
+
+Our client values safety above all, and we cannot really determine the safety of unique aircraft. It is unlikely that our client would have the opportunity to purchase a rare or limited-production plane anyway, so we dropped all "Make" values that were less than 1% of the total dataset. Such planes are too unusual to make a good assessment of their safety. We also dropped entries that did not list "Make" because we cannot recommend a plane if we don't know what type it is.
+
+We wanted to determine the chance of injury if a plane was in a crash, so we estimated total passengers per flight by adding all the injured passenger counts to the uninjured count. Each category ("fatal," "serious," "minor," and "uninjured") seemed exclusive, so adding them together gives a good indication of the number of passengers on board.
+
+With our new metrics for injuries, we looked at percentage chance of injury by number of engines.
+
+<img width="874" alt="Screenshot 2023-07-14 at 10 51 06 AM" src="https://github.com/m-romanski/dsc-phase1-project-LRM/assets/137821058/3c5d3740-7149-47c7-bdc3-e0f07ab43a2c">
+
+
+
+
 
 
 ### Summary of conclusions including three relevant findings
