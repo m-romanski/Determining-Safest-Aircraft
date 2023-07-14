@@ -35,7 +35,7 @@ Our client's top concern is safety. They want to know what type of aircraft is s
 
 ## Data Understanding and Analysis
 
-This data represents aviation accidents and incidents documented by the NTSB from 1968 to present. It provides details about the make and model of the aircraft involved as well as the type and number of engines. The data include numbers of injuries, categorized by severity. Entries also detail the location of the accident, the rules the plane was flying under, the date of the incident, and whether the pilot could fly visually (good weather) or with instruments (poor weather).
+This data represents about 85.000 aviation accidents and incidents documented by the NTSB from 1968 to present. It provides details about the make and model of the aircraft involved as well as the type and number of engines. The data include numbers of injuries, categorized by severity. Entries also detail the location of the accident, the rules the plane was flying under, the date of the incident, and whether the pilot could fly visually (good weather) or with instruments (poor weather).
 
 The biggest limitation of this dataset is that it only includes flights that had a problem. Theoretically, a perfect plane would never crash and thus would not appear in this dataset. While the data did not allow us to determine the ratio of uneventful flights to crashes, we were able to find valuable information about the severity of crashes. Our analysis shows the likelihood of injury if a particular plane does crash. Realistically, accidents do happen and there are no perfect aircraft. We can tell our client which planes are the safest when things go wrong.
 
